@@ -1,8 +1,3 @@
-This is test git project for sandboxing git stuff
-
-
-fvsfvfahvuysdbcausv
-savfavdf
-
-
-more stuff here!
+This is a sandbox for various things:
+-- git
+-- mvn dealing with multiple pom files
